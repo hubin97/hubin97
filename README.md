@@ -15,8 +15,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 https://segmentfault.com/a/1190000040727897
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubin97&layout=compact)
 -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hubin97&show_icons=true&theme=tokyonight&hide_title=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubin97&layout=compact)
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=hubin97&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=hubin97&layout=compact&hide_title=true" />
