@@ -19,4 +19,4 @@ https://segmentfault.com/a/1190000040727897
 -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hubin97&show_icons=true&theme=tokyonight&hide_title=true" />
-<img align="right" src="[https://github-readme-stats.vercel.app/api?username=hubin97&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=hubin97&layout=compact&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubin97&layout=compact&hide_title=true&theme=tokyonight" />
